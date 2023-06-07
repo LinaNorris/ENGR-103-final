@@ -3,7 +3,8 @@
 # Author
 Lina Norris
 ## What does it do?
-This is a game for use on a Adafruit Circuit Playground
+This is a game for use on a Adafruit Circuit Playground. 
+It runs using the Arduino IDE.
 
 ## Rules:
 There are three levels, each level gets increasingly difficult.
