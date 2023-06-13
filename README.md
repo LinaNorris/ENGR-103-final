@@ -20,9 +20,9 @@ If you pass this level then you move on to level 3.
 Third Level:
 The second level, but faster.
 
-#Inputs
+# Inputs
 Left and right buttons
 slide switch
 
-#Outputs
+# Outputs
 Lights and sounds
